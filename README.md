@@ -5,9 +5,10 @@
    NIM: 16919378  
    Fakultas: FTMD  
    
-2.
-
-
+2. Nama: Muhammad Agil Ghifari
+   GitHub username: agilghifa21
+   NIM: 16319075
+   Fakultas: FITB
 
 3.
 
